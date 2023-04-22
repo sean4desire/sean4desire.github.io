@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "07656f5e73edc53d",
+    "type": "split",
+    "children": [
+      {
+        "id": "80edf2f470fe0e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afda9f1db86a803f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-22-몸을 만들기 위해 가장 중요한 것.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4923c2148cfbc65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2b4de7c47e84a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b01dca7bf885a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d923b06004f016",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd2349b6fd812784",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76022717a7e463c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36369ccc000bc1d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77d992af54985b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56527e0bf4bf2c58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caed6e15f65d86a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fd5afaf373b51a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb87d2290b8e62e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4923c2148cfbc65d",
+  "lastOpenFiles": [
+    "_posts/2023-04-22-몸을 만들기 위해 가장 중요한 것.md",
+    "_posts/2023-04-22-소유냐존재냐 1.md"
+  ]
+}
