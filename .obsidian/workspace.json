@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "261d9c6f738103cf",
+            "id": "91d7edd6fe74d637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-24-자료형.md",
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-24-자료형.md",
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-24-자료형.md",
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-24-자료형.md"
+                "file": "_posts/2023-04-22-소유냐존재냐 1.md"
               }
             }
           }
@@ -143,18 +143,24 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "261d9c6f738103cf",
+  "active": "91d7edd6fe74d637",
   "lastOpenFiles": [
-    "_posts/2023-04-24-자료형.md",
-    "_posts/2023-04-23-일상적 경험에서의 소유와 존재.md",
-    "_posts/2023-04-24-운동 볼륨에 대한 이해.md",
-    "_posts/2023-04-23-점진적 과부하의 원칙.md",
     "_posts/2023-04-22-몸을 만들기 위해 가장 중요한 것.md",
+    "_posts/2023-04-22-두려움.md",
+    "_posts/2023-04-22-소유냐존재냐 1.md",
     "_posts/2023-04-22-C언어로 작성하는 첫 번째 프로그램.md",
     "_posts/2023-04-23-변수.md",
-    "_posts/2023-04-22-소유냐존재냐 1.md"
+    "_posts/2023-04-23-비인지능력.md",
+    "_posts/2023-04-23-일상적 경험에서의 소유와 존재.md",
+    "_posts/2023-04-23-점진적 과부하의 원칙.md",
+    "_posts/2023-04-24-운동 볼륨에 대한 이해.md",
+    "_posts/2023-04-24-인간 존재의 세 가지 범주와 마음근력.md",
+    "_posts/2023-04-24-자료형.md",
+    "_posts/2023-04-24-존재적 실존양식.md",
+    "_posts/2023-04-25-상수와 리터럴.md"
   ]
 }
