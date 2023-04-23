@@ -11,8 +11,12 @@
             "id": "50d20818e796a6c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-23-비인지능력.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_posts/2023-04-23-비인지능력.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_posts/2023-04-23-비인지능력.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_posts/2023-04-23-비인지능력.md"
+          }
         }
       }
     ],
@@ -123,8 +131,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6a9cac9c034170ff",
+  "active": "50d20818e796a6c2",
   "lastOpenFiles": [
+    "_posts/2023-04-23-비인지능력.md",
     "Pasted image 20230423125159.png",
     "_posts/2023-04-22-test.md",
     "_posts/2023-04-22-마음근력.md",
