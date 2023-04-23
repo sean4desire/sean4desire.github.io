@@ -11,8 +11,12 @@
             "id": "a7acde6e57bd0b79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-23-점진적 과부화의 원칙.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-24-운동 볼륨에 대한 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-24-운동 볼륨에 대한 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-24-운동 볼륨에 대한 이해.md"
+              }
             }
           }
         ]
@@ -138,10 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a7acde6e57bd0b79",
+  "active": "41d923b06004f016",
   "lastOpenFiles": [
-    "_posts/2023-04-23-일상적 경험에서의 소유와 존재.md",
     "_posts/2023-04-23-점진적 과부화의 원칙.md",
+    "_posts/2023-04-24-운동 볼륨에 대한 이해.md",
+    "_posts/2023-04-23-일상적 경험에서의 소유와 존재.md",
     "_posts/2023-04-22-몸을 만들기 위해 가장 중요한 것.md",
     "_posts/2023-04-22-C언어로 작성하는 첫 번째 프로그램.md",
     "_posts/2023-04-23-변수.md",
