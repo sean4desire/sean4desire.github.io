@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b77e95029f59beeb",
+        "id": "a66fc2be2a2c609d",
         "type": "tabs",
         "children": [
           {
-            "id": "50d20818e796a6c2",
+            "id": "5aaa5ee66945b4ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-24-자료형.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2023-04-24-자료형.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2023-04-24-자료형.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/2023-04-24-자료형.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,11 +123,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "50d20818e796a6c2",
+  "active": "5aaa5ee66945b4ce",
   "lastOpenFiles": [
+    "_posts/2023-04-23-비인지능력.md",
+    "_posts/2023-04-24-인간 존재의 세 가지 범주와 마음근력.md",
+    "_posts/2023-04-24-자료형.md",
     "_posts/2023-04-23-변수.md",
     "_posts/2023-04-22-C언어로 작성하는 첫 번째 프로그램.md",
-    "_posts/2023-04-23-비인지능력.md",
     "Pasted image 20230423125159.png",
     "_posts/2023-04-22-test.md",
     "_posts/2023-04-22-마음근력.md",
