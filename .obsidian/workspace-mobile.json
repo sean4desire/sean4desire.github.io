@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a66fc2be2a2c609d",
+        "id": "22587761c43a5901",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaa5ee66945b4ce",
+            "id": "b171d19113b5bb87",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,8 +123,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5aaa5ee66945b4ce",
+  "active": "b171d19113b5bb87",
   "lastOpenFiles": [
+    "_posts/2023-04-24-존재적 실존양식.md",
     "_posts/2023-04-23-비인지능력.md",
     "_posts/2023-04-24-인간 존재의 세 가지 범주와 마음근력.md",
     "_posts/2023-04-24-자료형.md",
